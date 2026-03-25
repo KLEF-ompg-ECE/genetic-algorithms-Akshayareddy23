@@ -132,7 +132,7 @@ Save plots as `experiment_2a.png`, `experiment_2b.png`, `experiment_2c.png`.
 [ From this experiment, I learned how Genetic Algorithms search for optimal solutions using selection, crossover, and mutation. The algorithm gradually improves the quality of solutions across generations by keeping the best individuals. Mutation plays an important role in maintaining diversity in the population. If mutation is too low, the algorithm may get stuck in local optima, and if it is too high, the search becomes random. Therefore, choosing a balanced mutation rate is important for good performance. ]
 ```
 
----
+----
 
 ## Submission Checklist
 
